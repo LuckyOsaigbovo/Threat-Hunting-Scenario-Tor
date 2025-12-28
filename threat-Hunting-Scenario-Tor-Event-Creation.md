@@ -77,7 +77,7 @@ DeviceFileEvents
 ## Created By:
 - **Author Name**:Lucky Osaigbovo
 - **Author Contact**: .....................................
-- **Date**: May 31, 2024
+- **Date**: August 31, 2024
 
 ## Validated By:
 - **Reviewer Name**: 
@@ -94,4 +94,4 @@ DeviceFileEvents
 ## Revision History:
 | **Version** | **Changes**                   | **Date**         | **Modified By**   |
 |-------------|-------------------------------|------------------|-------------------|
-| 1.0         | Initial draft                  | `June  6, 2025`  | `Lucky Osaigbovo`   
+| 1.0         | Initial draft                 | `September  6, 2024` | `Lucky Osaigbovo`   
